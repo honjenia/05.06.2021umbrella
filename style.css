@@ -1,0 +1,25 @@
+body {
+    background-image: url(img/99376747-vector-hand-drawn-rain-and-umbrella-pattern.jpg);
+}
+.carousel-item {
+    height: 100vh;
+    
+}
+.carousel-item img {
+    height: 100vh;
+    margin: 0 auto;
+   
+}
+section {
+ 
+    height: 100vh;
+    padding: 40px;
+    justify-content: space-between;
+}
+.navbar-brand {
+    font-family: 'Merriweather', serif;
+}
+.card {
+    
+    margin: 0 39px 10px;
+}
