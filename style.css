@@ -14,12 +14,12 @@ section {
  
     height: 100vh;
     padding: 40px;
-    justify-content: space-between;
+    
 }
 .navbar-brand {
     font-family: 'Merriweather', serif;
 }
 .card {
     
-    margin: 0 39px 10px;
 }
+
